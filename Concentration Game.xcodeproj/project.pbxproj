@@ -57,11 +57,19 @@
 				58B3095F2235D0F200392744 /* AppDelegate.swift */,
 				58B309612235D0F200392744 /* ViewController.swift */,
 				58B309632235D0F200392744 /* Main.storyboard */,
-				58B309662235D0F400392744 /* Assets.xcassets */,
-				58B309682235D0F400392744 /* LaunchScreen.storyboard */,
+				58B30984223AD37700392744 /* Supporting files */,
 				58B3096B2235D0F400392744 /* Info.plist */,
 			);
 			path = "Concentration Game";
+			sourceTree = "<group>";
+		};
+		58B30984223AD37700392744 /* Supporting files */ = {
+			isa = PBXGroup;
+			children = (
+				58B309662235D0F400392744 /* Assets.xcassets */,
+				58B309682235D0F400392744 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
